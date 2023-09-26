@@ -1,7 +1,7 @@
-# Java_Basic
+# Java_Selenium
 
 📚\
-Site tested: myelectrica.ro with Basic Selenium
+Site tested: myelectrica.ro with Basic Selenium in Chrome.
 
 📝\
 I also created some Variables, Arrays for my knowledge to make a comparison with the Python programming language.
